@@ -8,7 +8,7 @@ Adresse kipé C/Ratoma
 Tel : +224 624112683/ 662352403 / 656088470
 Email : stikante@gmail.com
 
-profession : informaticien et ingenieur 
+profession : informaticien et ingenieur LED
 
 EXPERIENCES PROFESSIONNELLE
 2021-      : creation de l'entreprise STIK LED & IT 
