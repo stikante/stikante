@@ -13,11 +13,11 @@ profession : informaticien et ingenieur LED
 EXPERIENCES PROFESSIONNELLE
 2021-      : creation de l'entreprise STIK LED & IT 
   Activité : intallation ,montage,configuration ,location,maintenance des ecran LED.
-             assurer la maintenance,securité,configuration du reseau et apareil IT de plusieurs societe en place 
-2015- 2021 : Responsable IT à panorastar (société de publicité numérique)
+             assurer la maintenance,securité,configuration du reseau et apareil IT de plusieurs societes . 
+2015- 2021 : Responsable IT à panorastar (société de publicité numérique).
 Activité : gérer et former le personnel technique pour maintenance préventive et curative des ordinateurs et écrans LED.
 
-2014- 2015 : Assistant responsable IT à panorastar (société de publicité numérique)
+2014- 2015 : Assistant responsable IT à panorastar (société de publicité numérique).
 Activité : faire la préparation des équipements, la maintenance préventive et curative des ordinateurs ,du reseau IT et des écrans LED.
 
 2013 – à nos jours : assistant chef de département NTIC, responsable IT de U.N.C (université Nongo de Conakry)
