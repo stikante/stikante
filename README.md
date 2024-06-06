@@ -1,14 +1,14 @@
 
 
 
-KANTE Aboubacar .
-Nationalité :	Guinéenne .
-Pays: La Guinée .
-Adresse kipé C/Ratoma . 
-Tel : +224 624112683/ 662352403 / 656088470 .
-Email : stikante@gmail.com
+-KANTE Aboubacar .
+-Nationalité :	Guinéenne .
+-Pays: La Guinée .
+-Adresse kipé C/Ratoma . 
+-Tel : +224 624112683/ 662352403 / 656088470 .
+-Email : stikante@gmail.com
 
-profession : informaticien et ingenieur LED
+Profession : informaticien et ingenieur LED
 
 EXPERIENCES PROFESSIONNELLE
 2021-      : creation de l'entreprise STIK LED & IT 
