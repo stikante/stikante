@@ -11,7 +11,7 @@ Profession : informaticien et ingenieur LED
 
 EXPERIENCES PROFESSIONNELLE
 2021-      : creation de l'entreprise STIK LED & IT 
-  Activité : intallation ,montage,configuration ,location,maintenance des ecran LED.
+            Activité : intallation ,montage,configuration ,location,maintenance des ecran LED.
              assurer la maintenance,securité,configuration du reseau et apareil IT de plusieurs societes . 
 2015- 2021 : Responsable IT à panorastar (société de publicité numérique).
 Activité : gérer et former le personnel technique pour maintenance préventive et curative des ordinateurs et écrans LED.
