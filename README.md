@@ -1,6 +1,5 @@
 
-
-##KANTE Aboubacar .
+KANTE Aboubacar .
 Nationalité :	Guinéenne .
 Pays: La Guinée .
 Adresse kipé C/Ratoma . 
